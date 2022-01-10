@@ -3,6 +3,7 @@
 GRUPO:
 - Carlos Eduardo Cabral de Farias
 - Pedro Lucas Melo Hirschle
+- Ênio Ferreira da Silva
 
 
 DESCRIÇÃO:
